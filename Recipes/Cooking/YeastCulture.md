@@ -3,5 +3,7 @@
 ```sota-recipe
 Flour
 Yeast culture
+---
+Yeast culture
 ```
 

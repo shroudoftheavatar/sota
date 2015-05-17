@@ -4,4 +4,6 @@
 Pine timber
 Chemicals
 Cubit measure
+---
+2 Pine boards
 ```
